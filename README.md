@@ -1,4 +1,6 @@
-# Simple linter for Lua
+# Simple linter
+
+Used for making the code pretty, taken from https://codemirror.net/
 
 ![image](https://user-images.githubusercontent.com/52250786/186773416-38a37abc-e13c-498e-9b9b-997fe4b73643.png)
 
