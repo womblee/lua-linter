@@ -1,7 +1,5 @@
 # Simple linter for Lua
 
-Screenshot:
-
 ![image](https://user-images.githubusercontent.com/52250786/186773416-38a37abc-e13c-498e-9b9b-997fe4b73643.png)
 
 Before:
